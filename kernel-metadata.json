@@ -1,0 +1,13 @@
+{
+  "id": "johannesillerhaus/train-efficientdet",
+  "title": "Train Efficientdet",
+  "code_file": "train_efficientdet.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": "true",
+  "enable_gpu": "true",
+  "enable_internet": "false",
+  "dataset_sources": ["mathurinache/efficientdet", "gabrichy/nvidiaapex", "shonenkov/omegaconf", "kaushal2896/pycocotools", "greatgamedota/timm-package", "shonenkov/timm-efficientdet-pytorch"],
+  "competition_sources": ["global-wheat-detection"],
+  "kernel_sources": []
+}
