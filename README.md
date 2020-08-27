@@ -1,6 +1,6 @@
 # Global-Wheat-Detection: EfficientDet Training
 
-This is the training part of my second solution to the [Global Wheat Detection](kaggle.com/c/global-wheat-detection) competition. My first solution was based on Yolov5, the [training](https://github.com/jillerhaus/Global_Wheat_Yolov5_Training) and [inference](Global_Wheat_Yolov5_Inference.git) notebooks to this solution can both be found on my github. Due to licensing issues, Yolov5 was barred from the competition, so I constructed a second solution to stay compliant with the competition rules. This solution is based on a Pytorch implementation of EfficientDet-D5 and contains two notebooks: this training notebook and an [inference notebook](https://github.com/jillerhaus/Global_Wheat_EffDet_Inference).
+This is the training part of my second solution to the [Global Wheat Detection](kaggle.com/c/global-wheat-detection) competition. My first solution was based on Yolov5, the [training](https://github.com/jillerhaus/Global_Wheat_Yolov5_Training) and [inference](https://github.com/jillerhaus/Global_Wheat_Yolov5_Inference.git) notebooks to this solution can both be found on my github. Due to licensing issues, Yolov5 was barred from the competition, so I constructed a second solution to stay compliant with the competition rules. This solution is based on a Pytorch implementation of EfficientDet-D5 and contains two notebooks: this training notebook and an [inference notebook](https://github.com/jillerhaus/Global_Wheat_EffDet_Inference).
 
 
 
